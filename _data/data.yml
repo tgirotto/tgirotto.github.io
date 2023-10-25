@@ -166,12 +166,19 @@ projects:
     assignments:
       - title: Jump
         link: "https://github.com/tgirotto/gopamoja-expo"
-        tagline: "A Flutter stock management system for small businesses in Tanzania"
+        tagline: "A Flutter stock management system for small businesses in Tanzania."
 
-    assignments:
       - title: goPamoja
         link: "https://github.com/tgirotto/gopamoja-expo"
-        tagline: "An online platform to sell bus tickets in Tanzania"
+        tagline: "An online platform to sell bus tickets in Tanzania."
+
+      - title: Legendairy
+        link:
+        tagline: "A USSD based data collection system for milk farmers in rural Africa."
+
+      - title: Ref OS
+        link:
+        tagline: "A docker based control system for commercial heat pumps."
 
 # oss:
 #     title: OSS Contributions
