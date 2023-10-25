@@ -8,19 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Tommaso Girotto
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    email: tommaso.girotto91@gmail.com
+    timezone: America/Lima Timezone
+    website: tommaso-girotto.co #do not add http://
     linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    github: tgirotto
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -33,29 +30,29 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Italian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Fluent
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Football
           link:
 
-        - item: Snowboarding
+        - item: Travelling
           link:
 
-        - item: Cooking
+        - item: Fish farming
           link:
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
