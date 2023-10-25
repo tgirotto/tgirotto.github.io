@@ -16,7 +16,7 @@ sidebar:
     email: tommaso.girotto91@gmail.com
     timezone: America/Lima Timezone
     website: tommaso-girotto.co #do not add http://
-    linkedin: alandoe
+    linkedin: tommaso-girotto-03474b153
     github: tgirotto
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -153,7 +153,7 @@ projects:
     assignments:
       - title: Jump
         link: "https://github.com/tgirotto/gopamoja-expo"
-        tagline: "A Flutter stock management system for small businesses in Tanzania."
+        tagline: "A mobile-based stock management system for small businesses in Tanzania."
 
       - title: goPamoja
         link: "https://github.com/tgirotto/gopamoja-expo"
