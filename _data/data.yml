@@ -77,43 +77,30 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Full Stack Developer
+        time: 2019 - Present
+        company: NXT Grid, Netherlands/Nigeria
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As the first software engineer to join the company, I was responsible for the
+          development of the core platform that solar developers in Nigeria use to monitor their grids.
+          In particular I currently focus on:
+            - Remote monitoring and management systems
+            - Ledger-based transction systems
+            - Integration of energy meters in Ayrton, the company's proprietary platform
+      - role: Software consultant
+        time: 2019 - 2022
+        company: Enex, Italy
+        details: |
+          Description
+            - Developed the first prototype of Linux-based, Javascript-based control system for
+            commercial heat pumps.
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: 2018 - 2019
+        company: Devergy, Tanzania
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As the head of sales, I coordinated a team of 30+ members to deploy 
+            - Coordinated the deployment 12 solar minigrids in the Runwa region
+            - Developed internal software tools to improve data about our customers
 
 # certifications:
 #       title: Certifications
@@ -176,10 +163,6 @@ projects:
         link:
         tagline: "A USSD based data collection system for milk farmers in rural Africa."
 
-      - title: Ref OS
-        link:
-        tagline: "A docker based control system for commercial heat pumps."
-
 # oss:
 #     title: OSS Contributions
 #     intro: >
@@ -226,7 +209,10 @@ skills:
 
     toolset:
       - name: Typescript
-        level: 98%
+        level: 90%
+
+      - name: Nest JS
+        level: 80%
 
       - name: Angular
         level: 70%
@@ -234,8 +220,5 @@ skills:
       - name: Vue
         level: 50%
 
-      - name: HTML5 & CSS
-        level: 70%
-
 footer: >
-    ®2023
+    ® 2023
