@@ -45,7 +45,7 @@ sidebar:
         - item: Football
           link:
 
-        - item: Travelling
+        - item: Exploration history
           link:
 
         - item: Fish farming
@@ -152,7 +152,7 @@ projects:
 
     assignments:
       - title: Jump
-        link: "https://github.com/tgirotto/gopamoja-expo"
+        link: "https://github.com/tgirotto/jump-flutter"
         tagline: "A mobile-based stock management system for small businesses in Tanzania."
 
       - title: goPamoja
